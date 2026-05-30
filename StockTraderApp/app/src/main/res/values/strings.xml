@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StockTrader</string>
+    <string name="welcome">ברוך הבא לחשבון המסחר שלך</string>
+    <string name="username_hint">שם משתמש</string>
+    <string name="fullname_hint">שם מלא</string>
+    <string name="login">התחבר</string>
+    <string name="portfolio">תיק השקעות</string>
+    <string name="watchlist">רשימת מעקב</string>
+    <string name="transactions">היסטוריית פעולות</string>
+    <string name="analytics">ניתוח ביצועים</string>
+    <string name="search_hint">חפש מניה לפי שם או סימול</string>
+    <string name="buy">קנייה</string>
+    <string name="sell">מכירה</string>
+    <string name="quantity_hint">כמות</string>
+</resources>

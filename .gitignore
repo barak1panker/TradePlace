@@ -1,0 +1,21 @@
+# IDE
+/.idea/
+**/.idea/
+
+# Build outputs
+**/build/
+**/out/
+
+# Gradle
+**/.gradle/
+**/local.properties
+
+# Node
+**/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings
+.claude/settings.local.json

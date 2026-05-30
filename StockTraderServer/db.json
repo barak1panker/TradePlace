@@ -1,0 +1,13 @@
+{
+  "accounts": {
+    "barak123": {
+      "username": "barak123",
+      "fullName": "barak penker",
+      "passwordHash": "fa0bd7ffb53851a2e00000e314ab010ba134d3299e32e9d8a4e87c892d62c531",
+      "cashBalance": 75831.25,
+      "portfolioJson": "{\"totalRealizedPL\":0,\"holdings\":[{\"symbol\":\"GOOGL\",\"quantity\":25,\"averageCost\":382.67},{\"symbol\":\"AAPL\",\"quantity\":25,\"averageCost\":306.6},{\"symbol\":\"AMZN\",\"quantity\":25,\"averageCost\":277.48}],\"transactions\":[{\"symbol\":\"AAPL\",\"type\":\"BUY\",\"quantity\":25,\"pricePerShare\":306.6,\"timestamp\":1780156340802,\"realizedPL\":0},{\"symbol\":\"AMZN\",\"type\":\"BUY\",\"quantity\":25,\"pricePerShare\":277.48,\"timestamp\":1780156403066,\"realizedPL\":0},{\"symbol\":\"GOOGL\",\"type\":\"BUY\",\"quantity\":25,\"pricePerShare\":382.67,\"timestamp\":1780156424234,\"realizedPL\":0}],\"watchlist\":[\"AAPL\",\"TSLA\",\"NVDA\",\"GOOGL\"]}",
+      "createdAt": 1780156311296,
+      "updatedAt": 1780156472542
+    }
+  }
+}
