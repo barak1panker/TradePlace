@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📈 StockTrader
+# 📈 TradePlace
 
 ### Stock Market Trading Platform - Android App with Backend Server
 
